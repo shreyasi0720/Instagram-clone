@@ -1,0 +1,1 @@
+Developed a responsive Instagram UI clone using HTML, CSS, and JavaScript, replicating core social media features such as image uploads, likes, and comments. The application leverages DOM manipulation to create dynamic and interactive user experiences, ensuring smooth real-time updates and responsive behavior across different screen sizes.
